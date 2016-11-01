@@ -58,5 +58,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ytnobody/p5-Net-Azure-Authorization-SAS/issues"
+      },
+      "homepage" : "https://github.com/ytnobody/p5-Net-Azure-Authorization-SAS",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ytnobody/p5-Net-Azure-Authorization-SAS.git",
+         "web" : "https://github.com/ytnobody/p5-Net-Azure-Authorization-SAS"
+      }
+   },
    "version" : "0.01"
 }
