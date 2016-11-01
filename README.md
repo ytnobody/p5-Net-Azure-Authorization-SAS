@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ytnobody/p5-Net-Azure-Authorization-SAS.svg?branch=master)](https://travis-ci.org/ytnobody/p5-Net-Azure-Authorization-SAS)
 # NAME
 
 Net::Azure::Authorization::SAS - A Token Generator of Shared Access Signature Autorization for Microsoft Azure 
