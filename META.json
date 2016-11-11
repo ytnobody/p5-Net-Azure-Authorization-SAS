@@ -53,6 +53,7 @@
       },
       "test" : {
          "requires" : {
+            "Test::Exception" : "0",
             "Test::More" : "0.98",
             "Test::Time" : "0"
          }
