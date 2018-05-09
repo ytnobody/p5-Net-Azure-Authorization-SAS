@@ -2,6 +2,8 @@ Revision history for Perl extension Net-Azure-Authorization-SAS
 
 {{$NEXT}}
 
+    - `connection_string` became optional parameter
+
 0.02 2016-11-11T09:19:12Z
 
     - add Test::Exception as deps
