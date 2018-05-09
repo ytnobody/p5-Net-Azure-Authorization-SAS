@@ -71,5 +71,8 @@
          "web" : "https://github.com/ytnobody/p5-Net-Azure-Authorization-SAS"
       }
    },
-   "version" : "0.03"
+   "version" : "0.03",
+   "x_contributors" : [
+      "azuma.satoshi <azuma.satoshi@colon.ne.jp>"
+   ]
 }
